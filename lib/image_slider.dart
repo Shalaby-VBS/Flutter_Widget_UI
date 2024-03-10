@@ -14,7 +14,6 @@ class _HomeState extends State<ImageSliders> {
     return Scaffold(
       appBar: AppBar(
         title: const Text("ImageSlider in Flutter"),
-        // backgroundColor: Colors.blue[200],
         centerTitle: true,
       ),
       body: Column(
